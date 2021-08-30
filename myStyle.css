@@ -1,0 +1,51 @@
+
+
+
+
+
+header {
+
+    height: 100px;
+
+    width: 100%;
+
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+
+    background: black;
+
+}
+
+
+
+
+
+.container {
+
+    height: 95%;
+
+    width: 100%;
+
+    display: flex;
+
+    justify-content: space-between;
+
+    align-items: center;
+
+    background: silver;
+
+}
+
+header img {
+    width: 200px;
+    height: 200px;
+}
+
+nav{
+    display: block;
+    nav-right: auto;
+
+}
